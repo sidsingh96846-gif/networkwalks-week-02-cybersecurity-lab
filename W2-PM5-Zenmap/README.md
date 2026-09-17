@@ -37,7 +37,12 @@ Zenmap Topology view displayed the local host together with the two discovered h
 - `10.208.175.103`
 - `10.208.175.215`
 
-The topology graphic was saved as `PM5-Zenmap-Topology.pdf` during the lab.
+## Evidence
+The following evidence files are included in this folder:
+
+1. `ipconfig.png` — local IP address and subnet configuration
+2. `zenmap-ping-scan.png` — Zenmap/Nmap ping scan results
+3. `zenmap-topology.png` — Zenmap topology visualization
 
 ## Key Learnings
 - `ipconfig` can be used to identify the local IPv4 address and subnet mask.
@@ -45,9 +50,6 @@ The topology graphic was saved as `PM5-Zenmap-Topology.pdf` during the lab.
 - `nmap -sn` performs host discovery without a conventional port scan.
 - ARP can provide IP-to-MAC mappings for devices visible on the local network.
 - Zenmap provides graphical views of Nmap scan results, including topology.
-
-## Evidence
-Screenshots and the saved topology PDF should be placed in this folder when uploading the final evidence package.
 
 ## Safety Note
 Scanning was limited to the user's local Wi-Fi subnet identified from the host configuration.
