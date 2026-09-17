@@ -33,12 +33,8 @@ This repository contains my Week 02 practical work for the Networkwalks Cybersec
 |---|---|---|
 | W2-PM1 | Footprinting with Multiple Kali Tools | 🟢 Completed |
 | W2-PM2 | Google Hacking Database | 🟢 Completed |
-| W2-PM3 | Maltego | ⏭️ Not Selected |
-| W2-PM4 | theHarvester | ⏭️ Not Selected |
 | W2-PM5 | Zenmap Network Scanning | 🟢 Completed |
 | W2-PM-FINAL | Detailed Final Report | 🟢 Completed |
-
-> **Note:** W2-PM3 (Maltego) and W2-PM4 (theHarvester) were not selected for the Week 02 project. The completed project consists of PM1, PM2, PM5, and the required final report.
 
 ## ⚖️ Ethical Use
 
