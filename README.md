@@ -2,8 +2,7 @@
 
 ## Footprinting, Reconnaissance & Network Scanning
 
-This repository contains my Week 02 practical work for the
-Networkwalks Cybersecurity & Ethical Hacking training.
+This repository contains my Week 02 practical work for the Networkwalks Cybersecurity & Ethical Hacking training.
 
 ## 🎯 Objectives
 
@@ -26,27 +25,26 @@ Networkwalks Cybersecurity & Ethical Hacking training.
 - cURL
 - WAFW00F
 - DNSRecon
-- Maltego
-- theHarvester
 - Zenmap / Nmap
 
 ## 📚 Week 02 Modules
 
 | Module | Topic | Status |
 |---|---|---|
-| W2-PM1 | Footprinting with Multiple Kali Tools | 🟡 In Progress |
-| W2-PM2 | Google Hacking Database | ⬜ Pending |
-| W2-PM3 | Maltego | ⬜ Pending |
-| W2-PM4 | theHarvester | ⬜ Pending |
-| W2-PM5 | Zenmap Network Scanning | ⬜ Pending |
+| W2-PM1 | Footprinting with Multiple Kali Tools | 🟢 Completed |
+| W2-PM2 | Google Hacking Database | 🟢 Completed |
+| W2-PM3 | Maltego | ⏭️ Not Selected |
+| W2-PM4 | theHarvester | ⏭️ Not Selected |
+| W2-PM5 | Zenmap Network Scanning | 🟢 Completed |
+| W2-PM-FINAL | Detailed Final Report | 🟢 Completed |
+
+> **Note:** W2-PM3 (Maltego) and W2-PM4 (theHarvester) were not selected for the Week 02 project. The completed project consists of PM1, PM2, PM5, and the required final report.
 
 ## ⚖️ Ethical Use
 
-All practical activities are performed for educational purposes
-and authorized security testing only.
+All practical activities are performed for educational purposes and authorized security testing only.
 
-No unauthorized systems, devices, networks, accounts, or data
-should be accessed or tested.
+No unauthorized systems, devices, networks, accounts, or data should be accessed or tested.
 
 ## 👨‍💻 Author
 
